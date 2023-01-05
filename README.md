@@ -1,24 +1,7 @@
-# client
+# CGPA-Calculator
 
-## Project setup
-```
-npm install
-```
+This website is for calculation of CGPA of IIT Madras Course
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://krutik48.github.io/CGPA-Calculator/
